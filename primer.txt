@@ -2,7 +2,7 @@ Hola, este es el primer documento que usaré
 dentro del curso de Git.
 Ahora hice el primer cambio.
 
-Este es el segundo cambio.
+Este es el tercer cambio.
 
 Hoy en dia he aprendido algunas cosas acerca de Git.
 
