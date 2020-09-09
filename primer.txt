@@ -3,3 +3,5 @@ dentro del curso de Git.
 Ahora hice el primer cambio.
 
 Este es el segundo cambio.
+
+Hoy en dia he aprendido algunas cosas acerca de Git.
