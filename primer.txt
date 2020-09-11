@@ -9,4 +9,6 @@ Hoy en dia he aprendido algunas cosas acerca de Git.
 Pues mira que el dia de hoy voy a realizar otros cambios.
 
 Este va a ser la nueva linea que voy a añadir este el
-cuarto dia de estudio de Git
+cuarto dia de estudio de Git.
+
+Voy a hacer otro cambio pequeño en este archivo.
